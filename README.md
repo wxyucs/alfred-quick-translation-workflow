@@ -21,7 +21,7 @@ Press ⌥ + ⏎ to copy the original text to the clipboard.
 
 
 
-## Copy the original text to Clipboard (⌘ + ⏎)
+## Copy translation results to Clipboard (⌘ + ⏎)
 
 ![source](./imgs/target.png)
 
